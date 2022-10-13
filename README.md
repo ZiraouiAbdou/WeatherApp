@@ -1,16 +1,8 @@
 # weather_pp
 
-A new Flutter project.
+A new Flutter application that fetches data from the internet using OpenWeatherMap.com api
 
-## Getting Started
+## Video to preview the app
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/108340809/195591758-bd228254-d9e1-4d02-83cc-f3ece485679c.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
